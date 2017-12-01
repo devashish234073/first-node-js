@@ -1,0 +1,23 @@
+{
+  "name": "devashish_app",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devashish234073/first-node-js.git"
+  },
+  "keywords": [
+    "devashish_priyadarshi"
+  ],
+  "author": "devashish_priyadarshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devashish234073/first-node-js/issues"
+  },
+  "homepage": "https://github.com/devashish234073/first-node-js#readme"
+}
