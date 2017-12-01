@@ -1,0 +1,24 @@
+{
+  "name": "Devashish_App",
+  "version": "1.0.0",
+  "description": "",
+  "engines": {
+    "node": "8.9.1"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heroku/node-js-getting-started"
+  },
+  "keywords": [
+    "devashish",
+    "heroku",
+    "nodejs"
+  ],
+  "license": "MIT"
+}
